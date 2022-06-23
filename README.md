@@ -3,11 +3,11 @@
 </p>
 
 # CytoPlots
-[![PyPi](https://img.shields.io/pypi/v/cytotools)](https://pypi.org/project/cytotools/)
-[![Python](https://img.shields.io/pypi/pyversions/cytotools)](https://pypi.org/project/cytotools/)
-[![Wheel](https://img.shields.io/pypi/wheel/cytotools)](https://pypi.org/project/cytotools/)
-[![License]( https://img.shields.io/pypi/l/cytotools)](https://opensource.org/licenses/MIT)
-[![LastCommit](https://img.shields.io/github/last-commit/burtonrj/cytotools)]()
+[![PyPi](https://img.shields.io/pypi/v/cytoplots)](https://pypi.org/project/cytoplots/)
+[![Python](https://img.shields.io/pypi/pyversions/cytoplots)](https://pypi.org/project/cytoplots/)
+[![Wheel](https://img.shields.io/pypi/wheel/cytoplots)](https://pypi.org/project/cytoplots/)
+[![License]( https://img.shields.io/pypi/l/cytoplots)](https://opensource.org/licenses/MIT)
+[![LastCommit](https://img.shields.io/github/last-commit/burtonrj/cytoplots)]()
 ---
 
 ## Overview

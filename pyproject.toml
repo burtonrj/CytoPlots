@@ -2,6 +2,7 @@
 name = "cytoplots"
 version = "0.1.0"
 description = "Plotting library for cytometry data"
+license = "MIT"
 authors = ["burtonrj <burtonrj@cardiff.ac.uk>"]
 
 [tool.poetry.dependencies]
