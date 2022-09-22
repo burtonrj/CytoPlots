@@ -24,14 +24,12 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 """
 import logging
-from itertools import cycle
 from typing import Dict
 from typing import List
 from typing import Optional
 from typing import Tuple
 from typing import Union
 
-import numpy as np
 import pandas as pd
 import seaborn as sns
 from KDEpy import FFTKDE
@@ -39,7 +37,7 @@ from matplotlib import pyplot as plt
 from matplotlib.colors import LogNorm
 
 from cytotools.transform import apply_transform, TRANSFORMERS
-import transforms
+from transforms import *
 
 logger = logging.getLogger(__name__)
 
