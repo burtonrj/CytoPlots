@@ -37,7 +37,7 @@ from matplotlib import pyplot as plt
 from matplotlib.colors import LogNorm
 
 from cytotools.transform import apply_transform, TRANSFORMERS
-from transforms import *
+from .transforms import *
 
 logger = logging.getLogger(__name__)
 
